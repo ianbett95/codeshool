@@ -1,0 +1,15 @@
+@font-face {
+    font-family: raleway;
+    src: url(Raleway.variable_wght.tff);
+}
+    
+.container{
+    display: flex;
+justify-content: end;
+
+    color: #5271ff
+}
+.media{
+    width:30px;
+    height: 30px;
+}

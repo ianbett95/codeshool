@@ -1,0 +1,30 @@
+#intro {
+    color: #5271ff;
+    display: flex;
+    justify-content: center;
+}
+
+
+#lavender{
+    padding-left: 10%;
+    font-size: 20px;
+
+}
+.curiosity{
+    background-color: #5271ff;
+    border: solid #5271ff;
+    border-radius: 40px;
+    align-items: column ;
+    padding: 5% 10% 5%;
+    justify-content: space-around;
+    color: bisque;
+
+}
+#completion{
+    margin-top: 20px;
+    border: solid red;
+    background-color: red;
+    border-radius: 30px;
+}
+    
+    
